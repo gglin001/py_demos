@@ -1,0 +1,11 @@
+__pycache__/
+
+.vscode/
+.cache/
+
+build/
+*.egg-info
+
+*.so
+
+.mypy_cache/
